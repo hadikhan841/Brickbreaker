@@ -1,3 +1,2 @@
 # Brickbreaker
-libraries used : turtle , tkinter(messagebox),random 
-This is a really simple game examplar of the original brickbreaker game
+A really simple clone of the original "Bricksout" game
